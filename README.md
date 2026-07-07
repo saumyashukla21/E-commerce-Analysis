@@ -6,7 +6,7 @@ This project is an interactive **Sales Dashboard** created in **Microsoft Excel*
 
 ## Dashboard Preview
 
-![E-commerce-Analysis](E-Commerce Dashboard.png)
+![Dashboard Screenshot](E-Commerce%20Dashboard.png)
 
 ## Built With
 - **Microsoft Excel**
